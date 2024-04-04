@@ -1,12 +1,14 @@
 # _Tool name_
 
-Links
-- Website: _link here_
-- Documentation: _link here_
-
+---
 ## Introduction
 _introduction of tool and why here_
 
+### Links
+- Website: _link here_
+- Documentation: _link here_
+
+---
 ## Configuration
 _how can the tool be configured?_
 
